@@ -11,7 +11,6 @@
 
 Теперь вводи в командную строку следующие команды:
 
-
 pip install keyboard
 
 pip install mouse
