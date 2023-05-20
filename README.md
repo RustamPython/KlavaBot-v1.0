@@ -11,8 +11,13 @@
 
 Теперь вводи в командную строку следующие команды:
 
-pip install keyboard 
-pip install mouse 
-pip install pyautogui 
-pip install pyperclip 
-pip install pywin32 
+
+pip install keyboard
+
+pip install mouse
+
+pip install pyautogui
+
+pip install pyperclip
+
+pip install pywin32
